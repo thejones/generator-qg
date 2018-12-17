@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Alex Jones",
+      "authorEmail": "alexander.t.jones@gmail.com",
+      "authorUrl": "https://github.com/thejones"
+    }
+  }
+}
